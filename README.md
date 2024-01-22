@@ -4,10 +4,16 @@
 <h1>Welcome to my Github Profile</h1>
 <img src=https://komarev.com/ghpvc/?username=Codewith-Vedant>
 
-- 🔭 Second Year B.Tech Computer Engineering
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about Web Development and Cyber Security
-- 📫 Connect with me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <h2>💻 Second Year B.Tech Computer Engineering</h2>
+- <h2>💬 Ask me about Web Development and Cyber Security</h2>
+- <h2>📫 Connect with me:</h2><br>
+  <a href=https://www.instagram.com/vspillai_0701/>
+   <img src=https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png width=50 height=50></a>&nbsp;
+  <a href=https://www.linkedin.com/in/vedant-pillai-842ba625a/>
+    <img src=https://th.bing.com/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?rs=1&pid=ImgDetMain width=50 height=50></a>&nbsp;
+  <a href=https://tryhackme.com/p/Ved1403>
+    <img src=https://assets.tryhackme.com/img/THMlogo.png width=80 height=50></a>&nbsp;
+  <a href=https://twitter.com/Vspillai0>
+    <img src=https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png width=50 height=50></a>&nbsp;
+
 
