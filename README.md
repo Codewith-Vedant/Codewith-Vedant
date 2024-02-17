@@ -16,7 +16,7 @@
     <img src=https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png width=50 height=50></a>&nbsp;
 <h1></h1>
 <h2>My Skills:</h2>
-<img src=https://github.com/Codewith-Vedant/Codewith-Vedant/blob/main/Skills.png width=700 height=400>
+<img src=https://github.com/Codewith-Vedant/Codewith-Vedant/blob/main/Skills.png width=700 height=450>
 <h1></h1>
 <h2>My Stat Card:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Codewith-Vedant&theme=tokyonight&show_icons=true" alt="Vedant's Stat">
