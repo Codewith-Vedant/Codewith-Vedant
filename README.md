@@ -3,6 +3,9 @@
 <h1>Welcome to my Github Profile</h1>
 <img src=https://komarev.com/ghpvc/?username=Codewith-Vedant&color=40E0D0>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewith-vedant" alt="codewith-vedant" /></a> </p>
+
 - <h2>💻 Second Year B.Tech Computer Engineering</h2>
 - <h2>💬 Ask me about Web Development and Cyber Security</h2>
 - <h2>📫 Connect with me:</h2><br>
