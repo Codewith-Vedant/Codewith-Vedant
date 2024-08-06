@@ -18,6 +18,11 @@
   <a href=https://twitter.com/Vspillai0>
     <img src=https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png width=50 height=50></a>&nbsp;
 <h1></h1>
+
+<p align="left">
+<a href="https://medium.com/@vspillai0701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vspillai0701" height="30" width="40" /></a>
+</p>
+
 <h2>My Skills:</h2>
 <img src=https://github.com/Codewith-Vedant/Codewith-Vedant/blob/main/Skills.png width=700 height=450>
 <h1></h1>
