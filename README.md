@@ -16,8 +16,9 @@
   <a href=https://tryhackme.com/p/Ved1403>
     <img src=https://assets.tryhackme.com/img/THMlogo.png width=80 height=50></a>&nbsp;
   <a href=https://twitter.com/Vspillai0>
-    <img src=https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png width=50 height=50></a>
-  <a href="https://medium.com/@vspillai0701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vspillai0701" height="50" width="50" /></a>
+    <img src=https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png width=50 height=50></a>&nbsp;
+  <a href="https://medium.com/@vspillai0701" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vspillai0701" height="50" width="50" /></a>
 <h1></h1>
 <h2>My Skills:</h2>
 <img src=https://github.com/Codewith-Vedant/Codewith-Vedant/blob/main/Skills.png width=700 height=450>
