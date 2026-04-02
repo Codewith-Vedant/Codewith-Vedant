@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="https://github.com/Codewith-Vedant/Codewith-Vedant/blob/main/Gitbanner.png" />
 
 <!-- Animated Typing Header -->
 <p align="center">
