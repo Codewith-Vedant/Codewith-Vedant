@@ -13,9 +13,8 @@
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech Computer Engineering (2nd Year)  
+- 🎓 B.Tech Computer Engineering (Last Year)  
 - 🛡️ Web Application Penetration Tester & Bug Bounty Hunter  
-- 🔍 OSINT Analyst  
 - ⚙️ Building security tools & automation frameworks  
 - 🤖 Exploring AI in Cybersecurity  
 
